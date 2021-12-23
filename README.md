@@ -1,5 +1,5 @@
 # Api_heroes_dio
-Projeto desenvolvido na plataforma Digital Innovation One
+Projeto desenvolvido na plataforma DIO com as habilidades adquiridas ao longo do curso, de JAVA DEVELOPER
 
 Na live oferecida pela developer back-end [Kamila Santos](https://github.com/Kamilahsantos).
 
